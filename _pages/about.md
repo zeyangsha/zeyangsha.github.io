@@ -15,6 +15,6 @@ Hi! my name is Zeyang Sha. I am a first year PH.D student at [CISPA Helmhltz Cen
 ---
 
 - Privacy of Machine Learning
-- System security
+- System Security
 - General Data Protection Regulation
 
