@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : ZeyangSha
 facebook:
   username               :
   app_id                 :
@@ -86,7 +86,7 @@ author:
   location         : "Saarbrücken Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=3tBByDwAAAAJ"
   email            :  "zeyangsha@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "https://twitter.com/ZeyangSha"
   vine             :
   weibo            :
   xing             :
@@ -121,6 +121,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - _publications
   - files
 exclude:
   - "*.sublime-project"
