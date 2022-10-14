@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19c30e4a-d7f4-47fd-8726-755ea81b5765" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/markdown_generator/publications.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/markdown_generator/publications.tsv" afterDir="false" />
-    </list>
+    <list default="true" id="19c30e4a-d7f4-47fd-8726-755ea81b5765" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
