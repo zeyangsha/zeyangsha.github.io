@@ -33,7 +33,7 @@ border-radius: 4px;
 a { TEXT-DECORATION:none }
 }
 </style>
-<a href="https://arxiv.org/abs/2212.09067" class="btn--paper" target="_blank">odf</a>
+<a href="https://arxiv.org/abs/2212.09067" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2212.09067" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://arxiv.org/abs/2212.09067" class="btn--code" target="_blank">code</a>
 
