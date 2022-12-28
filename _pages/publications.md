@@ -7,7 +7,7 @@ author_profile: true
 ### <span style="color:rgb(39, 117, 182)">Fine-Tuning Is All You Need to Mitigate Backdoor Attacks</span>
 <b>Zeyang Sha</b>,  Xinlei He, Pascal Berrang, Mathias Humbert, Yang Zhang; \
 <i>Arxiv</i> \
-<button id="backdoor" onclick=" backdoor1()" style="background: #3d83fa;color: #fefefe">pdf</button>
+<a href="#" class="btn-gradient cyan mini" onclick=" backdoor1()">pdf</a>
 <script>
 function backdoor1()
 {
