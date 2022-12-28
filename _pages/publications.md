@@ -4,7 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-### <span style="color:rgb(39, 117, 182)">Fine-Tuning Is All You Need to Mitigate Backdoor Attacks</span>
+###
+<h2 id='2022'>2022</h2>
+<span style="color:rgb(39, 117, 182)">Fine-Tuning Is All You Need to Mitigate Backdoor Attacks</span>
 <b>Zeyang Sha</b>,  Xinlei He, Pascal Berrang, Mathias Humbert, Yang Zhang; \
 <i>Arxiv</i>
 <style type="text/css" rel="stylesheet">
