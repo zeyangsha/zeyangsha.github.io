@@ -16,13 +16,8 @@ text-align: center;
 border-radius: 4px;
 }
 </style>
-<a href="https://arxiv.org/abs/2212.09067" class="btn--paper">PDF</a>
-<script>
-function backdoor1()
-{
-     location.href = "https://arxiv.org/abs/2212.09067";
-} 
-</script>
+<a href="https://arxiv.org/abs/2212.09067" class="btn--paper" target="_blank">pdf</a>
+
 <input type="button" class="btn btn-dinger" color="background: #7fccde" value="arxiv" onclick=" backdoor2()">
 <script>
 function backdoor2()
