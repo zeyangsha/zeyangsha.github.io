@@ -8,13 +8,3 @@ date: 2022-10-1
 location: "Saarbrucken, Germany"
 ---
 
-
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
