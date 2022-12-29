@@ -15,7 +15,7 @@ color: white;
 background-color: lightseagreen;
 padding: 1px 3px;
 text-align: center;
-border-radius: 4px;
+border-radius: 2px;
 a { TEXT-DECORATION:none }
 }
 .btn--arxiv {
@@ -23,7 +23,7 @@ color: white;
 background-color: tan;
 padding: 1px 3px;
 text-align: center;
-border-radius: 4px;
+border-radius: 2px;
 a { TEXT-DECORATION:none }
 }
 .btn--code {
@@ -31,7 +31,7 @@ color: white;
 background-color: DARKORANGE;
 padding: 1px 3px;
 text-align: center;
-border-radius: 4px;
+border-radius: 2px;
 a { TEXT-DECORATION:none }
 }
 </style>
@@ -43,7 +43,7 @@ a { TEXT-DECORATION:none }
 <b>Zeyang Sha</b>, Zheng Li, Ning Yu, Yang Zhang;  \
 <i>Arxiv</i> 
 
-<a href="https://arxiv.org/abs/2210.06998" class="btn--danger" target="_blank">pdf</a>
+<a href="https://arxiv.org/abs/2210.06998" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2210.06998" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://arxiv.org/abs/2210.06998" class="btn--code" target="_blank">code</a>
 
