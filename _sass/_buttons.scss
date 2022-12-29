@@ -88,7 +88,11 @@
   /* success */
 
   &--success {
-    background-color: $success-color;
+    color: white;
+    background-color: tomato;
+    padding: 1px 3px;
+    text-align: center;
+    border-radius: 4px;
 
     &:hover {
       background-color: mix(#000, $success-color, 20%);
@@ -98,7 +102,11 @@
   /* danger */
 
   &--danger {
-    background-color: $danger-color;
+    color: white;
+    background-color: lightseagreen;
+    padding: 1px 3px;
+    text-align: center;
+    border-radius: 4px;
 
     &:hover {
       background-color: mix(#000, $danger-color, 20%);
@@ -151,3 +159,4 @@
     font-size: $type-size-7;
   }
 }
+
