@@ -4,6 +4,18 @@ permalink: /publications/
 author_profile: true
 ---
 
+<h2 id='2023'>2023</h2>
+
+### <span style="color:rgb(39, 117, 182)">Can't Steal? Cont-Steal! Contrastive Stealing Attacks Against Image Encoders</span>
+<b>Zeyang Sha</b>, Xinlei He, Ning Yu, Michael Backes, Yang Zhang;  \
+<i>CVPR2023</i>
+<br />
+<a href="https://arxiv.org/abs/2201.07513" class="btn--paper" target="_blank">pdf</a>
+<a href="https://arxiv.org/abs/2201.07513" class="btn--arxiv" target="_blank">arxiv</a>
+<a href="https://arxiv.org/abs/2201.07513" class="btn--code" target="_blank">code</a>
+
+---
+
 <h2 id='2022'>2022</h2>
 
 <style type="text/css" rel="stylesheet">
@@ -48,10 +60,3 @@ a { TEXT-DECORATION:none }
 <a href="https://arxiv.org/abs/2210.06998" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://arxiv.org/abs/2210.06998" class="btn--code" target="_blank">code</a>
 
-### <span style="color:rgb(39, 117, 182)">Can't Steal? Cont-Steal! Contrastive Stealing Attacks Against Image Encoders</span>
-<b>Zeyang Sha</b>, Xinlei He, Ning Yu, Michael Backes, Yang Zhang;  \
-<i>Arxiv</i>
-<br />
-<a href="https://arxiv.org/abs/2201.07513" class="btn--paper" target="_blank">pdf</a>
-<a href="https://arxiv.org/abs/2201.07513" class="btn--arxiv" target="_blank">arxiv</a>
-<a href="https://arxiv.org/abs/2201.07513" class="btn--code" target="_blank">code</a>
