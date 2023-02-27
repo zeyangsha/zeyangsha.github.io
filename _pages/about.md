@@ -13,8 +13,11 @@ Hi! my name is Zeyang Sha. I am a first year Ph.D. student at [CISPA Helmhltz Ce
 
 ## Research Interests
 
----
 
 - Trustworth machine learning
 - System Security
 - General Data Protection Regulation
+
+## News
+
+- [February 2023]One paper titled “Can’t Steal? Cont-Steal! Contrastive Stealing Attacks Against Image Encoders” got accepted in CVPR 2023!
