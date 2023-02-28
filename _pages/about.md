@@ -14,7 +14,7 @@ Hi! my name is Zeyang Sha. I am a first year Ph.D. student at [CISPA Helmhltz Ce
 ## Research Interests
 
 
-- Trustworth machine learning
+- Trustworthy Machine Learning
 - System Security
 - General Data Protection Regulation
 
