@@ -14,8 +14,6 @@ author_profile: true
 <a href="https://arxiv.org/abs/2201.07513" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://arxiv.org/abs/2201.07513" class="btn--code" target="_blank">code</a>
 
----
-
 <h2 id='2022'>2022</h2>
 
 <style type="text/css" rel="stylesheet">
