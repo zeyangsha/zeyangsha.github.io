@@ -36,7 +36,6 @@ a { TEXT-DECORATION:none }
 ### <span style="color:rgb(39, 117, 182)">Can't Steal? Cont-Steal! Contrastive Stealing Attacks Against Image Encoders</span>
 <font size="3"><b>Zeyang Sha</b>, Xinlei He, Ning Yu, Michael Backes, Yang Zhang;
 <i>CVPR 2023</i></font>
-<br />
 <a href="https://arxiv.org/abs/2201.07513" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2201.07513" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://arxiv.org/abs/2201.07513" class="btn--code" target="_blank">code</a>
