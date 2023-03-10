@@ -15,7 +15,7 @@ author_profile: true
 <a href="https://arxiv.org/abs/2201.07513" class="btn--code" target="_blank">code</a>
 
 ### <span style="color:rgb(39, 117, 182)">From Visual Prompt Learning to Zero-Shot Transfer: Mapping Is All You Need</span>
-Ziqing Yang *, <b>Zeyang Sha*</b>, Michael Backes, Yang Zhang (* Equal Contribution);  \
+Ziqing Yang<b>*</b>, <b>Zeyang Sha*</b>, Michael Backes, Yang Zhang (* Equal Contribution);  \
 <i>Arxiv</i>
 <br />
 <a href="https://arxiv.org/abs/2303.05266" class="btn--paper" target="_blank">pdf</a>
