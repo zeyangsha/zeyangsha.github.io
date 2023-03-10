@@ -42,7 +42,7 @@ a { TEXT-DECORATION:none }
 <a href="https://arxiv.org/abs/2201.07513" class="btn--code" target="_blank">code</a>
 
 ### <span style="color:rgb(39, 117, 182)">From Visual Prompt Learning to Zero-Shot Transfer: Mapping Is All You Need</span>
-<font size="3">Ziqing Yang*, <b>Zeyang Sha*</b>, Michael Backes, Yang Zhang (* Equal Contribution);  \
+<font size="3">Ziqing Yang**, <b>Zeyang Sha*</b>, Michael Backes, Yang Zhang (** Equal Contribution);  \
 <i>Arxiv</i></font>
 <br />
 <a href="https://arxiv.org/abs/2303.05266" class="btn--paper" target="_blank">pdf</a>
