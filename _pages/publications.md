@@ -36,6 +36,7 @@ a { TEXT-DECORATION:none }
 ### <span style="color:rgb(39, 117, 182)">Conversation Reconstruction Attack Against GPT Models</span>
 Junjie Chu, <font size="3"><b>Zeyang Sha</b>, Michael Backes, Yang Zhang;
 <i>Arxiv</i></font>
+
 <a href="https://arxiv.org/abs/2402.02987" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2402.02987" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://arxiv.org/abs/2402.02987" class="btn--code" target="_blank">code</a>
@@ -43,6 +44,7 @@ Junjie Chu, <font size="3"><b>Zeyang Sha</b>, Michael Backes, Yang Zhang;
 ### <span style="color:rgb(39, 117, 182)">Comprehensive Assessment of Toxicity in ChatGPT</span>
 Boyang Zhang, Xinyue Shen, Wai Man Si, <font size="3"><b>Zeyang Sha</b>, Zeyuan Chen, Ahmed Salem, Yun Shen, Michael Backes, Yang Zhang;
 <i>Arxiv</i></font>
+
 <a href="https://arxiv.org/abs/2311.14685" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2311.14685" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://arxiv.org/abs/2311.14685" class="btn--code" target="_blank">code</a>
