@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-I am a Ph.D. student at [CISPA Helmhltz Center for Information Security](https://cispa.de/), advised by [Dr. Yang Zhang](https://yangzhangalmo.github.io/). I obtained my bachelor degree from Fudan University, advised by [Dr. Yuan Zhang](https://yuanxzhang.github.io/). During my undergraduate, I was also a security engineer intern at Data security group of Meituan.
+I am a Ph.D. student at [CISPA Helmholtz Center for Information Security](https://cispa.de/), advised by [Dr. Yang Zhang](https://yangzhangalmo.github.io/). I obtained my bachelor degree from Fudan University, advised by [Dr. Yuan Zhang](https://yuanxzhang.github.io/). During my undergraduate, I was also a security engineer intern at Data security group of Meituan.
 
 ## Research Interests
 
