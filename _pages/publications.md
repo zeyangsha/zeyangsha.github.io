@@ -33,6 +33,13 @@ a { TEXT-DECORATION:none }
 
 <h2 id='2024'>2024</h2>
 
+### <span style="color:rgb(39, 117, 182)">Prompt Stealing Attacks Against Large Language Models</span>
+<font size="3"><b>Zeyang Sha</b>, Yang Zhang;
+<i>Arxiv</i></font>
+<a href="https://arxiv.org/abs/2402.12959" class="btn--paper" target="_blank">pdf</a>
+<a href="https://arxiv.org/abs/2402.12959" class="btn--arxiv" target="_blank">arxiv</a>
+<a href="https://arxiv.org/abs/2402.12959" class="btn--code" target="_blank">code</a>
+
 ### <span style="color:rgb(39, 117, 182)">Conversation Reconstruction Attack Against GPT Models</span>
 Junjie Chu, <font size="3"><b>Zeyang Sha</b>, Michael Backes, Yang Zhang;
 <i>Arxiv</i></font>
