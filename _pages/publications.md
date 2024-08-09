@@ -33,6 +33,14 @@ a { TEXT-DECORATION:none }
 
 <h2 id='2024'>2024</h2>
 
+### <span style="color:rgb(39, 117, 182)">ZeroFake: Zero-Shot Detection of Fake Images Generated and Edited by Text-to-Image Generation Models</span>
+<font size="3"><b>Zeyang Sha</b>, Yicong Tan, Mingjie Li, Michael Backes, Yang Zhang;
+<i>ICWSM</i></font>
+<a href="" class="btn--paper" target="_blank">pdf</a>
+<a href="" class="btn--arxiv" target="_blank">arxiv</a>
+<a href="" class="btn--code" target="_blank">code</a>
+
+
 ### <span style="color:rgb(39, 117, 182)">Games and Beyond: Analyzing the Bullet Chats of Esports Livestreaming</span>
 Yukun Jiang, Xinyue Shen, Rui Wen, <font size="3"><b>Zeyang Sha</b>, Junjie Chu, Yugeng Liu, Michael Backes, Yang Zhang;
 <i>ICWSM</i></font>
