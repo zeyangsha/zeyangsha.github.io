@@ -35,7 +35,7 @@ a { TEXT-DECORATION:none }
 
 ### <span style="color:rgb(39, 117, 182)">ZeroFake: Zero-Shot Detection of Fake Images Generated and Edited by Text-to-Image Generation Models</span>
 <font size="3"><b>Zeyang Sha</b>, Yicong Tan, Mingjie Li, Michael Backes, Yang Zhang;
-<i>ICWSM</i></font>
+<i>CCS</i></font>
 <a href="" class="btn--paper" target="_blank">pdf</a>
 <a href="" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="" class="btn--code" target="_blank">code</a>
