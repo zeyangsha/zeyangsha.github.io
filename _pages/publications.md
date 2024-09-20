@@ -35,7 +35,7 @@ a { TEXT-DECORATION:none }
 
 ### <span style="color:rgb(39, 117, 182)">Conversation Reconstruction Attack Against GPT Models</span>
 Junjie Chu, <font size="3"><b>Zeyang Sha</b>, Michael Backes, Yang Zhang;
-<i>EMNLP</i></font><br>
+<i>EMNLP 2024</i></font><br>
 <a href="https://arxiv.org/abs/2402.02987" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2402.02987" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://arxiv.org/abs/2402.02987" class="btn--code" target="_blank">code</a>
