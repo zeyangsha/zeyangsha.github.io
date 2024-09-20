@@ -33,6 +33,13 @@ a { TEXT-DECORATION:none }
 
 <h2 id='2024'>2024</h2>
 
+### <span style="color:rgb(39, 117, 182)">Conversation Reconstruction Attack Against GPT Models</span>
+Junjie Chu, <font size="3"><b>Zeyang Sha</b>, Michael Backes, Yang Zhang;
+<i>EMNLP</i></font><br>
+<a href="https://arxiv.org/abs/2402.02987" class="btn--paper" target="_blank">pdf</a>
+<a href="https://arxiv.org/abs/2402.02987" class="btn--arxiv" target="_blank">arxiv</a>
+<a href="https://arxiv.org/abs/2402.02987" class="btn--code" target="_blank">code</a>
+
 ### <span style="color:rgb(39, 117, 182)">ZeroFake: Zero-Shot Detection of Fake Images Generated and Edited by Text-to-Image Generation Models</span>
 <font size="3"><b>Zeyang Sha</b>, Yicong Tan, Mingjie Li, Michael Backes, Yang Zhang;
 <i>CCS 2024</i></font>
@@ -53,13 +60,6 @@ Yukun Jiang, Xinyue Shen, Rui Wen, <font size="3"><b>Zeyang Sha</b>, Junjie Chu,
 <a href="https://arxiv.org/abs/2402.12959" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2402.12959" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://arxiv.org/abs/2402.12959" class="btn--code" target="_blank">code</a>
-
-### <span style="color:rgb(39, 117, 182)">Conversation Reconstruction Attack Against GPT Models</span>
-Junjie Chu, <font size="3"><b>Zeyang Sha</b>, Michael Backes, Yang Zhang;
-<i>Arxiv</i></font><br>
-<a href="https://arxiv.org/abs/2402.02987" class="btn--paper" target="_blank">pdf</a>
-<a href="https://arxiv.org/abs/2402.02987" class="btn--arxiv" target="_blank">arxiv</a>
-<a href="https://arxiv.org/abs/2402.02987" class="btn--code" target="_blank">code</a>
 
 ### <span style="color:rgb(39, 117, 182)">Comprehensive Assessment of Toxicity in ChatGPT</span>
 Boyang Zhang, Xinyue Shen, Wai Man Si, <font size="3"><b>Zeyang Sha</b>, Zeyuan Chen, Ahmed Salem, Yun Shen, Michael Backes, Yang Zhang;
