@@ -76,9 +76,9 @@ Boyang Zhang, Xinyue Shen, Wai Man Si, <font size="3"><b>Zeyang Sha</b>, Zeyuan 
 <a href="https://arxiv.org/abs/2210.06998" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2210.06998" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://arxiv.org/abs/2210.06998" class="btn--code" target="_blank">code</a>
-<div style="display: inline-block; background-color: red; color: white; padding: 2px 6px; border-radius: 3px; font-weight: bold; margin-top: 5px;">
-   Best paper finalist at CSAW Europe 2024
-</div>
+<span style="display: inline-block; background-color: #FF6347; color: white; padding: 3px 8px; border-radius: 12px; font-weight: bold; margin-top: 5px; text-align: center; font-size: 14px;">
+    Best paper finalist at CSAW Europe 2024
+</span>
 
 ### <span style="color:rgb(39, 117, 182)">Can't Steal? Cont-Steal! Contrastive Stealing Attacks Against Image Encoders</span>
 <font size="3"><b>Zeyang Sha</b>, Xinlei He, Ning Yu, Michael Backes, Yang Zhang;
