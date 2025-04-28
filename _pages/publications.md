@@ -31,7 +31,7 @@ a { TEXT-DECORATION:none }
 }
 </style>
 
-<h2 id='2025'>2024</h2>
+<h2 id='2025'>2025</h2>
 
 ### <span style="color:rgb(39, 117, 182)">
 Thought Manipulation: External Thought Can Be Efficient for Large Reasoning Models</span>
