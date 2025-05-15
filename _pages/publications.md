@@ -33,6 +33,13 @@ a { TEXT-DECORATION:none }
 
 <h2 id='2025'>2025</h2>
 
+### <span style="color:rgb(39, 117, 182)">SEM: Reinforcement Learning for Search-Efficient Large Language Models</span>
+Y<font size="3"><b>Zeyang Sha</b>, Shiwen Cui, Weiqiang Wang;
+<i>Arxiv</i></font><br>
+<a href="https://arxiv.org/abs/2505.07903" class="btn--paper" target="_blank">pdf</a>
+<a href="https://arxiv.org/abs/2505.07903" class="btn--arxiv" target="_blank">arxiv</a>
+<a href="https://arxiv.org/abs/2505.07903" class="btn--code" target="_blank">code</a>
+
 ### <span style="color:rgb(39, 117, 182)">Thought Manipulation: External Thought Can Be Efficient for Large Reasoning Models</span>
 Yule Liu, Jingyi Zheng, Zhen Sun, Zifan Peng, Wenhan Dong, <font size="3"><b>Zeyang Sha</b>, Shiwen Cui, Weiqiang Wang, Xinlei He;
 <i>Arxiv</i></font><br>
