@@ -34,14 +34,14 @@ a { TEXT-DECORATION:none }
 <h2 id='2025'>2025</h2>
 
 ### <span style="color:rgb(39, 117, 182)">SEM: Reinforcement Learning for Search-Efficient Large Language Models</span>
-Zhen Sun, Ziyi Zhang, Zeren Luo, <font size="3"><b>Zeyang Sha</b>, Tianshuo Cong, Zheng Li, Shiwen Cui, Weiqiang Wang, Jiaheng Wei, Xinlei He, Qi Li, Qian Wang;
+<font size="3"><b>Zeyang Sha</b>, Shiwen Cui, Weiqiang Wang;
 <i>Arxiv</i></font><br>
 <a href="https://arxiv.org/abs/2505.07903" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2505.07903" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://arxiv.org/abs/2505.07903" class="btn--code" target="_blank">code</a>
 
 ### <span style="color:rgb(39, 117, 182)">FragFake: A Dataset for Fine-Grained Detection of Edited Images with Vision Language Models</span>
-<font size="3"><b>Zeyang Sha</b>, Shiwen Cui, Weiqiang Wang;
+Zhen Sun, Ziyi Zhang, Zeren Luo, <font size="3"><b>Zeyang Sha</b>, Tianshuo Cong, Zheng Li, Shiwen Cui, Weiqiang Wang, Jiaheng Wei, Xinlei He, Qi Li, Qian Wang;
 <i>Arxiv</i></font><br>
 <a href="https://arxiv.org/abs/2505.07903" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2505.07903" class="btn--arxiv" target="_blank">arxiv</a>
