@@ -33,6 +33,11 @@ a { TEXT-DECORATION:none }
 
 <h2 id='2025'>2025</h2>
 
+### <span style="color:rgb(39, 117, 182)">Agent Safety Alignment via Reinforcement Learning</span>
+<font size="3"><b>Zeyang Sha</b>, Hanling Tian, Zhuoer Xu, Shiwen Cui, Changhua Meng, Weiqiang Wang;
+<i>Arxiv</i></font>
+<a href="https://arxiv.org/abs/2507.08270" class="btn--arxiv" target="_blank">arxiv</a>
+
 ### <span style="color:rgb(39, 117, 182)">A Survey of LLM-Driven AI Agent Communication: Protocols, Security Risks, and Defense Countermeasures</span>
 <font size="3">Dezhang Kong, Shi Lin, Zhenhua Xu, Zhebo Wang, Minghao Li, Yufeng Li, Yilun Zhang, <b>Zeyang Sha</b>, Yuyuan Li, Changting Lin, Xun Wang, Xuan Liu, Muhammad Khurram Khan, Ningyu Zhang, Chaochao Chen, Meng Han;
 <i>Arxiv</i></font>
