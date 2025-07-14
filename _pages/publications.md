@@ -29,6 +29,14 @@ text-align: center;
 border-radius: 4px;
 a { TEXT-DECORATION:none }
 }
+.btn--wdta {
+  color: white;
+  background-color: royalblue;
+  padding: 1px 3px;
+  text-align: center;
+  border-radius: 4px;
+  a { TEXT-DECORATION:none }
+}
 </style>
 
 <h2 id='2025'>2025</h2>
@@ -36,7 +44,7 @@ a { TEXT-DECORATION:none }
 ### <span style="color:rgb(39, 117, 182)">Single AI Agent Runtime Security Testing Standards</span>
 <font size="3">Ant Group
 <i>World Digital Technology Academy</i></font>
-<a href="[https://arxiv.org/abs/2507.08270](https://wdtacademy.org/publications/Agent)" class="btn--arxiv" target="_blank">WDTA</a>
+<a href="[https://arxiv.org/abs/2507.08270](https://wdtacademy.org/publications/Agent)" class="btn--wdta" target="_blank">WDTA</a>
 
 ### <span style="color:rgb(39, 117, 182)">Agent Safety Alignment via Reinforcement Learning</span>
 <font size="3"><b>Zeyang Sha</b>, Hanling Tian, Zhuoer Xu, Shiwen Cui, Changhua Meng, Weiqiang Wang;
