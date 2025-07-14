@@ -42,7 +42,7 @@ a { TEXT-DECORATION:none }
 <h2 id='2025'>2025</h2>
 
 ### <span style="color:rgb(39, 117, 182)">Single AI Agent Runtime Security Testing Standards</span>
-<font size="3">Ant Group
+<font size="3">Ant Group;
 <i>World Digital Technology Academy</i></font>
 <a href="[https://arxiv.org/abs/2507.08270](https://wdtacademy.org/publications/Agent)" class="btn--wdta" target="_blank">WDTA</a>
 
