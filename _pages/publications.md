@@ -39,6 +39,17 @@ a { TEXT-DECORATION:none }
 }
 </style>
 
+<p style="font-size: 14px; color: #555; margin-bottom: 10px;">
+  <b>*</b> denotes corresponding author.
+</p>
+
+<h2 id='2026'>2026</h2>
+### <span style="color:rgb(39, 117, 182)">	
+Teach to Reason Safely: Policy-Guided Safety Tuning for MLRMs</span>
+<font size="3">ingyu Zhang, Kun Yang*, Ming Wen, Zhuoer Xu, <b>Zeyang Sha*<b>, shiwen cui, Zhaohui Yang;
+<i>ICLR 2026</i></font>
+
+
 <h2 id='2025'>2025</h2>
 
 ### <span style="color:rgb(39, 117, 182)">Single AI Agent Runtime Security Testing Standards</span>
@@ -77,7 +88,7 @@ Yule Liu, Jingyi Zheng, Zhen Sun, Zifan Peng, Wenhan Dong, <font size="3"><b>Zey
 <h2 id='2024'>2024</h2>
 
 ### <span style="color:rgb(39, 117, 182)">Conversation Reconstruction Attack Against GPT Models</span>
-Junjie Chu, <font size="3"><b>Zeyang Sha</b>, Michael Backes, Yang Zhang;
+Junjie Chu, <font size="3"><b>Zeyang Sha*</b>, Michael Backes, Yang Zhang*;
 <i>EMNLP 2024</i></font><br>
 <a href="https://arxiv.org/abs/2402.02987" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://arxiv.org/abs/2402.02987" class="btn--code" target="_blank">code</a>
