@@ -20,6 +20,7 @@ I am a Senior Algorithm Engineer at Ant Group, specializing in the security and 
 - Best paper finalist at CSAW Europe 2024
 
 ## News
+- [02/2026]One paper "Teach to Reason Safely: Policy-Guided Safety Tuning for MLRMs" got accepted in ICLR 2024!
 - [08/2025][MCPScan](https://github.com/antgroup/MCPScan) is open-sourced, feel free to star : D.
 - [07/2025]The single-agent testing standard I co-authored has been released by the World Digital Technology Academy (WDTA)!
 - [02/2025]I joined Ant Group as the Senior Algorithm Engineer!
