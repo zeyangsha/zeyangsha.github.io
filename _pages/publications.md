@@ -44,11 +44,11 @@ a { TEXT-DECORATION:none }
 </p>
 
 <h2 id='2026'>2026</h2>
-### <span style="color:rgb(39, 117, 182)">	
-Teach to Reason Safely: Policy-Guided Safety Tuning for MLRMs</span>
+
+### <span style="color:rgb(39, 117, 182)">Teach to Reason Safely: Policy-Guided Safety Tuning for MLRMs</span>
 <font size="3">ingyu Zhang, Kun Yang*, Ming Wen, Zhuoer Xu, <b>Zeyang Sha*<b>, shiwen cui, Zhaohui Yang;
 <i>ICLR 2026</i></font>
-
+<a href="https://arxiv.org/abs/2507.08270" class="btn--arxiv" target="_blank">arxiv</a>
 
 <h2 id='2025'>2025</h2>
 
