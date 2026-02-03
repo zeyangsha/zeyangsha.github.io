@@ -47,7 +47,7 @@ a { TEXT-DECORATION:none }
 
 ### <span style="color:rgb(39, 117, 182)">Teach to Reason Safely: Policy-Guided Safety Tuning for MLRMs</span>
 <font size="3">Jingyu Zhang, Kun Yang*, Ming Wen, Zhuoer Xu, <b>Zeyang Sha*<b>, Shiwen Cui, Zhaohui Yang;
-<i>ICLR 2026</i></font>
+<i>ICLR 2026</i></font><br>
 <a href="https://arxiv.org/abs/2507.08270" class="btn--arxiv" target="_blank">arxiv</a>
 
 
