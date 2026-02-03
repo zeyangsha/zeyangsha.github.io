@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+<p style="font-size:0.9em; color:#666; margin-top:0.5em;">
+  <em>* indicates corresponding author</em>
+</p>
+
 <style>
 /* ===== Layout ===== */
 .year-header {
