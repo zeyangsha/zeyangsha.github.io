@@ -39,9 +39,6 @@ a { TEXT-DECORATION:none }
 }
 </style>
 
-<p style="font-size: 14px; color: #555; margin-bottom: 10px;">
-  <b>*</b> denotes corresponding author.
-</p>
 
 <h2 id='2026'>2026</h2>
 
