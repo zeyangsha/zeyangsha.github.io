@@ -20,6 +20,7 @@ I am an Associate Professor at [Nanjing University of Science and Technology](ht
 - Best paper finalist at CSAW Europe 2024
 
 ## News
+- [04/2026]One paper "The Reasoning Trap: How Enhancing LLM Reasoning Amplifies Tool Hallucination" got accepted in ACL 2026!
 - [02/2026]One paper "Teach to Reason Safely: Policy-Guided Safety Tuning for MLRMs" got accepted in ICLR 2026!
 - [08/2025][MCPScan](https://github.com/antgroup/MCPScan) is open-sourced, feel free to star : D.
 - [07/2025]The single-agent testing standard I co-authored has been released by the World Digital Technology Academy (WDTA)!
