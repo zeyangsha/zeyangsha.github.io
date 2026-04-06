@@ -76,7 +76,6 @@ author_profile: true
     Jingyu Zhang, Kun Yang*, Ming Wen, Zhuoer Xu, <b>Zeyang Sha*</b>, Shiwen Cui, Zhaohui Yang
   </span>
   <span class="pub-venue">ICLR 2026</span>
-  <a class="badge badge-arxiv" href="https://arxiv.org/abs/2507.08270" target="_blank" rel="noopener">arXiv</a>
 </div>
 
 
@@ -88,7 +87,6 @@ author_profile: true
   </div>
   <span class="pub-authors">Ant Group</span>
   <span class="pub-venue">World Digital Technology Academy</span>
-  <a class="badge badge-wdta" href="https://wdtacademy.org/publications/Agent" target="_blank" rel="noopener">WDTA</a>
 </div>
 
 <div class="pub-item">
@@ -99,7 +97,6 @@ author_profile: true
     <b>Zeyang Sha</b>, Hanling Tian, Zhuoer Xu, Shiwen Cui, Changhua Meng, Weiqiang Wang
   </span>
   <span class="pub-venue">arXiv</span>
-  <a class="badge badge-arxiv" href="https://arxiv.org/abs/2507.08270" target="_blank" rel="noopener">arXiv</a>
 </div>
 
 <div class="pub-item">
@@ -110,7 +107,6 @@ author_profile: true
     Dezhang Kong, Shi Lin, Zhenhua Xu, Zhebo Wang, Minghao Li, Yufeng Li, Yilun Zhang, <b>Zeyang Sha</b>, Yuyuan Li, Changting Lin, Xun Wang, Xuan Liu, Muhammad Khurram Khan, Ningyu Zhang, Chaochao Chen, Meng Han
   </span>
   <span class="pub-venue">arXiv</span>
-  <a class="badge badge-arxiv" href="https://arxiv.org/abs/2506.19676" target="_blank" rel="noopener">arXiv</a>
 </div>
 
 <div class="pub-item">
@@ -121,7 +117,6 @@ author_profile: true
     <b>Zeyang Sha</b>, Shiwen Cui, Weiqiang Wang
   </span>
   <span class="pub-venue">arXiv</span>
-  <a class="badge badge-arxiv" href="https://arxiv.org/abs/2505.07903" target="_blank" rel="noopener">arXiv</a>
 </div>
 
 <div class="pub-item">
@@ -132,7 +127,6 @@ author_profile: true
     Zhen Sun, Ziyi Zhang, Zeren Luo, <b>Zeyang Sha</b>, Tianshuo Cong, Zheng Li, Shiwen Cui, Weiqiang Wang, Jiaheng Wei, Xinlei He, Qi Li, Qian Wang
   </span>
   <span class="pub-venue">arXiv</span>
-  <a class="badge badge-arxiv" href="https://arxiv.org/abs/2505.15644" target="_blank" rel="noopener">arXiv</a>
 </div>
 
 <div class="pub-item">
@@ -143,7 +137,6 @@ author_profile: true
     Yule Liu, Jingyi Zheng, Zhen Sun, Zifan Peng, Wenhan Dong, <b>Zeyang Sha</b>, Shiwen Cui, Weiqiang Wang, Xinlei He
   </span>
   <span class="pub-venue">arXiv</span>
-  <a class="badge badge-arxiv" href="https://arxiv.org/abs/2504.13626" target="_blank" rel="noopener">arXiv</a>
 </div>
 
 
@@ -157,8 +150,6 @@ author_profile: true
     Junjie Chu, <b>Zeyang Sha*</b>, Michael Backes, Yang Zhang*
   </span>
   <span class="pub-venue">EMNLP 2024</span>
-  <a class="badge badge-arxiv" href="https://arxiv.org/abs/2402.02987" target="_blank" rel="noopener">arXiv</a>
-  <a class="badge badge-code" href="https://arxiv.org/abs/2402.02987" target="_blank" rel="noopener">Code</a>
 </div>
 
 <div class="pub-item">
@@ -169,9 +160,6 @@ author_profile: true
     <b>Zeyang Sha</b>, Yicong Tan, Mingjie Li, Michael Backes, Yang Zhang
   </span>
   <span class="pub-venue">CCS 2024</span>
-  <!-- TODO: fill arXiv/code links -->
-  <a class="badge badge-arxiv" href="" target="_blank" rel="noopener">arXiv</a>
-  <a class="badge badge-code" href="" target="_blank" rel="noopener">Code</a>
 </div>
 
 <div class="pub-item">
@@ -182,8 +170,6 @@ author_profile: true
     Yukun Jiang, Xinyue Shen, Rui Wen, <b>Zeyang Sha</b>, Junjie Chu, Yugeng Liu, Michael Backes, Yang Zhang
   </span>
   <span class="pub-venue">ICWSM 2024</span>
-  <!-- TODO: fill arXiv link -->
-  <a class="badge badge-arxiv" href="" target="_blank" rel="noopener">arXiv</a>
 </div>
 
 <div class="pub-item">
@@ -194,7 +180,6 @@ author_profile: true
     <b>Zeyang Sha</b>, Yang Zhang
   </span>
   <span class="pub-venue">arXiv</span>
-  <a class="badge badge-arxiv" href="https://arxiv.org/abs/2402.12959" target="_blank" rel="noopener">arXiv</a>
 </div>
 
 <div class="pub-item">
@@ -205,7 +190,6 @@ author_profile: true
     Boyang Zhang, Xinyue Shen, Wai Man Si, <b>Zeyang Sha</b>, Zeyuan Chen, Ahmed Salem, Yun Shen, Michael Backes, Yang Zhang
   </span>
   <span class="pub-venue">arXiv</span>
-  <a class="badge badge-arxiv" href="https://arxiv.org/abs/2311.14685" target="_blank" rel="noopener">arXiv</a>
 </div>
 
 
@@ -219,8 +203,6 @@ author_profile: true
     <b>Zeyang Sha</b>, Zheng Li, Ning Yu, Yang Zhang
   </span>
   <span class="pub-venue">CCS 2023</span>
-  <a class="badge badge-arxiv" href="https://arxiv.org/abs/2210.06998" target="_blank" rel="noopener">arXiv</a>
-  <a class="badge badge-code" href="https://arxiv.org/abs/2210.06998" target="_blank" rel="noopener">Code</a>
   <span class="badge badge-award">Best Paper Finalist · CSAW Europe 2024</span>
 </div>
 
@@ -232,8 +214,6 @@ author_profile: true
     <b>Zeyang Sha</b>, Xinlei He, Ning Yu, Michael Backes, Yang Zhang
   </span>
   <span class="pub-venue">CVPR 2023</span>
-  <a class="badge badge-arxiv" href="https://arxiv.org/abs/2201.07513" target="_blank" rel="noopener">arXiv</a>
-  <a class="badge badge-code" href="https://arxiv.org/abs/2201.07513" target="_blank" rel="noopener">Code</a>
 </div>
 
 <div class="pub-item">
@@ -244,7 +224,6 @@ author_profile: true
     Ziqing Yang, <b>Zeyang Sha</b>, Michael Backes, Yang Zhang
   </span>
   <span class="pub-venue">arXiv</span>
-  <a class="badge badge-arxiv" href="https://arxiv.org/abs/2303.05266" target="_blank" rel="noopener">arXiv</a>
 </div>
 
 
@@ -258,5 +237,4 @@ author_profile: true
     <b>Zeyang Sha</b>, Xinlei He, Pascal Berrang, Mathias Humbert, Yang Zhang
   </span>
   <span class="pub-venue">arXiv</span>
-  <a class="badge badge-arxiv" href="https://arxiv.org/abs/2212.09067" target="_blank" rel="noopener">arXiv</a>
 </div>
