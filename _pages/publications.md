@@ -98,56 +98,6 @@ author_profile: true
   <span class="pub-venue">World Digital Technology Academy</span>
 </div>
 
-<div class="pub-item">
-  <div>
-    <strong><span class="pub-title">Agent Safety Alignment via Reinforcement Learning</span></strong>
-  </div>
-  <span class="pub-authors">
-    <b>Zeyang Sha</b>, Hanling Tian, Zhuoer Xu, Shiwen Cui, Changhua Meng, Weiqiang Wang
-  </span>
-  <span class="pub-venue">arXiv</span>
-</div>
-
-<div class="pub-item">
-  <div>
-    <strong><span class="pub-title">A Survey of LLM-Driven AI Agent Communication: Protocols, Security Risks, and Defense Countermeasures</span></strong>
-  </div>
-  <span class="pub-authors">
-    Dezhang Kong, Shi Lin, Zhenhua Xu, Zhebo Wang, Minghao Li, Yufeng Li, Yilun Zhang, <b>Zeyang Sha</b>, Yuyuan Li, Changting Lin, Xun Wang, Xuan Liu, Muhammad Khurram Khan, Ningyu Zhang, Chaochao Chen, Meng Han
-  </span>
-  <span class="pub-venue">arXiv</span>
-</div>
-
-<div class="pub-item">
-  <div>
-    <strong><span class="pub-title">SEM: Reinforcement Learning for Search-Efficient Large Language Models</span></strong>
-  </div>
-  <span class="pub-authors">
-    <b>Zeyang Sha</b>, Shiwen Cui, Weiqiang Wang
-  </span>
-  <span class="pub-venue">arXiv</span>
-</div>
-
-<div class="pub-item">
-  <div>
-    <strong><span class="pub-title">FragFake: A Dataset for Fine-Grained Detection of Edited Images with Vision Language Models</span></strong>
-  </div>
-  <span class="pub-authors">
-    Zhen Sun, Ziyi Zhang, Zeren Luo, <b>Zeyang Sha</b>, Tianshuo Cong, Zheng Li, Shiwen Cui, Weiqiang Wang, Jiaheng Wei, Xinlei He, Qi Li, Qian Wang
-  </span>
-  <span class="pub-venue">arXiv</span>
-</div>
-
-<div class="pub-item">
-  <div>
-    <strong><span class="pub-title">Thought Manipulation: External Thought Can Be Efficient for Large Reasoning Models</span></strong>
-  </div>
-  <span class="pub-authors">
-    Yule Liu, Jingyi Zheng, Zhen Sun, Zifan Peng, Wenhan Dong, <b>Zeyang Sha</b>, Shiwen Cui, Weiqiang Wang, Xinlei He
-  </span>
-  <span class="pub-venue">arXiv</span>
-</div>
-
 <h2 class="year-header" id="2024">2024</h2>
 
 <div class="pub-item">
@@ -180,26 +130,6 @@ author_profile: true
   <span class="pub-venue">ICWSM 2024</span>
 </div>
 
-<div class="pub-item">
-  <div>
-    <strong><span class="pub-title">Prompt Stealing Attacks Against Large Language Models</span></strong>
-  </div>
-  <span class="pub-authors">
-    <b>Zeyang Sha</b>, Yang Zhang
-  </span>
-  <span class="pub-venue">arXiv</span>
-</div>
-
-<div class="pub-item">
-  <div>
-    <strong><span class="pub-title">Comprehensive Assessment of Toxicity in ChatGPT</span></strong>
-  </div>
-  <span class="pub-authors">
-    Boyang Zhang, Xinyue Shen, Wai Man Si, <b>Zeyang Sha</b>, Zeyuan Chen, Ahmed Salem, Yun Shen, Michael Backes, Yang Zhang
-  </span>
-  <span class="pub-venue">arXiv</span>
-</div>
-
 <h2 class="year-header" id="2023">2023</h2>
 
 <div class="pub-item">
@@ -223,24 +153,3 @@ author_profile: true
   <span class="pub-venue">CVPR 2023</span>
 </div>
 
-<div class="pub-item">
-  <div>
-    <strong><span class="pub-title">From Visual Prompt Learning to Zero-Shot Transfer: Mapping Is All You Need</span></strong>
-  </div>
-  <span class="pub-authors">
-    Ziqing Yang, <b>Zeyang Sha</b>, Michael Backes, Yang Zhang
-  </span>
-  <span class="pub-venue">arXiv</span>
-</div>
-
-<h2 class="year-header" id="2022">2022</h2>
-
-<div class="pub-item">
-  <div>
-    <strong><span class="pub-title">Fine-Tuning Is All You Need to Mitigate Backdoor Attacks</span></strong>
-  </div>
-  <span class="pub-authors">
-    <b>Zeyang Sha</b>, Xinlei He, Pascal Berrang, Mathias Humbert, Yang Zhang
-  </span>
-  <span class="pub-venue">arXiv</span>
-</div>
