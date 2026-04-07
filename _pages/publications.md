@@ -70,6 +70,16 @@ author_profile: true
 
 <div class="pub-item">
   <div>
+    <strong><span class="pub-title">The Reasoning Trap: How Enhancing LLM Reasoning Amplifies Tool Hallucination</span></strong>
+  </div>
+  <span class="pub-authors">
+    Chenlong Yin, Zeyang Sha*, Shiwen Cui, Changhua Meng, Zechao Li
+  </span>
+  <span class="pub-venue">ICLR 2026</span>
+</div>
+
+<div class="pub-item">
+  <div>
     <strong><span class="pub-title">Teach to Reason Safely: Policy-Guided Safety Tuning for MLRMs</span></strong>
   </div>
   <span class="pub-authors">
@@ -77,7 +87,6 @@ author_profile: true
   </span>
   <span class="pub-venue">ICLR 2026</span>
 </div>
-
 
 <h2 class="year-header" id="2025">2025</h2>
 
@@ -139,7 +148,6 @@ author_profile: true
   <span class="pub-venue">arXiv</span>
 </div>
 
-
 <h2 class="year-header" id="2024">2024</h2>
 
 <div class="pub-item">
@@ -192,7 +200,6 @@ author_profile: true
   <span class="pub-venue">arXiv</span>
 </div>
 
-
 <h2 class="year-header" id="2023">2023</h2>
 
 <div class="pub-item">
@@ -225,7 +232,6 @@ author_profile: true
   </span>
   <span class="pub-venue">arXiv</span>
 </div>
-
 
 <h2 class="year-header" id="2022">2022</h2>
 
