@@ -111,7 +111,7 @@ author_profile: true
     <strong><span class="pub-title">终端智能体安全2025</span></strong>
   </div>
   <span class="pub-authors">Shanghai Artificial Intelligence Laboratory, CAICT, Ant Group, IIFAA</span>
-  <span class="pub-venue">WAiC 2025</span>
+  <span class="pub-venue">WAIC 2025</span>
 </div>
 
 <h2 class="year-header" id="2024">2024</h2>
