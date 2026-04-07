@@ -95,7 +95,7 @@ author_profile: true
     <strong><span class="pub-title">Single AI Agent Runtime Security Testing Standards</span></strong>
   </div>
   <span class="pub-authors">Ant Group</span>
-  <span class="pub-venue">World Digital Technology Academy</span>
+  <span class="pub-venue">WDTA 2025</span>
 </div>
 
 <div class="pub-item">
