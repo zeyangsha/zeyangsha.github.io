@@ -73,7 +73,7 @@ author_profile: true
     <strong><span class="pub-title">The Reasoning Trap: How Enhancing LLM Reasoning Amplifies Tool Hallucination</span></strong>
   </div>
   <span class="pub-authors">
-    Chenlong Yin, Zeyang Sha*, Shiwen Cui, Changhua Meng, Zechao Li
+    Chenlong Yin, <b>Zeyang Sha*</b>, Shiwen Cui, Changhua Meng, Zechao Li
   </span>
   <span class="pub-venue">ACL 2026</span>
 </div>
