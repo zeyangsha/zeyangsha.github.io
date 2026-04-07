@@ -75,7 +75,7 @@ author_profile: true
   <span class="pub-authors">
     Chenlong Yin, Zeyang Sha*, Shiwen Cui, Changhua Meng, Zechao Li
   </span>
-  <span class="pub-venue">ICLR 2026</span>
+  <span class="pub-venue">ACL 2026</span>
 </div>
 
 <div class="pub-item">
