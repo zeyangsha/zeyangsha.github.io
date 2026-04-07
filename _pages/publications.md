@@ -98,6 +98,22 @@ author_profile: true
   <span class="pub-venue">World Digital Technology Academy</span>
 </div>
 
+<div class="pub-item">
+  <div>
+    <strong><span class="pub-title">AI智能体安全治理白皮书</span></strong>
+  </div>
+  <span class="pub-authors">China Telecom, MPS, Journal of Information Security Research Editorial Office, Huawei Group, Ant Group, Tsinghua University, Shanghai Jiao Tong University</span>
+  <span class="pub-venue">中国电信</span>
+</div>
+
+<div class="pub-item">
+  <div>
+    <strong><span class="pub-title">终端智能体安全2025</span></strong>
+  </div>
+  <span class="pub-authors">Shanghai Artificial Intelligence Laboratory, CAICT, Ant Group, IIFAA</span>
+  <span class="pub-venue">WAiC 2025</span>
+</div>
+
 <h2 class="year-header" id="2024">2024</h2>
 
 <div class="pub-item">
