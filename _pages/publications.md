@@ -75,7 +75,7 @@ author_profile: true
   <span class="pub-authors">
     Chenlong Yin, <b>Zeyang Sha*</b>, Shiwen Cui, Changhua Meng, Zechao Li
   </span>
-  <span class="pub-venue">ACL Main 2026 (Oral)</span>
+  <span class="pub-venue">ACL Main 2026</span>
 </div>
 
 <div class="pub-item">
