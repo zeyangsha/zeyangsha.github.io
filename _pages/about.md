@@ -8,7 +8,7 @@ redirect_from:
 
 ---
 
-I am an Associate Professor at [Nanjing University of Science and Technology](https://www.njust.edu.cn/). I was a Senior Algorithm Engineer at Ant Group, specializing in the security and safety of large language models. I obtained my doctoral degree at [CISPA Helmholtz Center for Information Security](https://cispa.de/), advised by [Prof. Yang Zhang](https://yangzhangalmo.github.io/). I obtained my bachelor's degree from Fudan University, advised by [Prof. Yuan Zhang](https://yuanxzhang.github.io/). 
+I am an Associate Professor at [Nanjing University of Science and Technology](https://www.njust.edu.cn/) and collaborate closely with [Prof. Zechao Li](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=0cp1q9!m33aFiXtUSaytcQ==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=). I was a Senior Algorithm Engineer at Ant Group, specializing in the security and safety of large language models. I obtained my doctoral degree at [CISPA Helmholtz Center for Information Security](https://cispa.de/), advised by [Prof. Yang Zhang](https://yangzhangalmo.github.io/). I obtained my bachelor's degree from Fudan University, advised by [Prof. Yuan Zhang](https://yuanxzhang.github.io/). 
 
 ## Research Interests
 
